@@ -23,3 +23,4 @@ Getting Started
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 # AndroidCompostTipCalculator
+# AndroidCompostTipCalculator
