@@ -59,11 +59,7 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = rootProject.extra["compose_compiler_version"].toString()
     }
-    packaging {
-        resources {
-            excludes += "/META-INF/{AL2.0,LGPL2.1}"
-        }
-    }
+
     namespace = "com.example.tiptime"
 }
 
